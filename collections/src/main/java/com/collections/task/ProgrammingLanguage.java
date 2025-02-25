@@ -3,6 +3,7 @@ package com.collections.task;
 import java.util.Objects;
 
 public class ProgrammingLanguage implements Comparable<ProgrammingLanguage> {
+    
     private String name;
     private Integer yearOfCreation;
     private String ide;
@@ -49,5 +50,4 @@ public class ProgrammingLanguage implements Comparable<ProgrammingLanguage> {
         ProgrammingLanguage programmingLanguage = (ProgrammingLanguage) obj;
         return name.equals(programmingLanguage.name) && yearOfCreation.equals(programmingLanguage.yearOfCreation) && ide.equals(programmingLanguage.ide);
     }
-   
 }
