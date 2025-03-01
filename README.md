@@ -1,31 +1,30 @@
 <h1>
-Curso Introdutório Collections Java
+Introductory Course on Java Collections
 </h1>
 
-<p>Resolução dos exercícios propostos: <strong>CURSO INTRODUTÓRIO COLLECTIONS FRAMEWORK JAVA</strong>.
-Curso online oferecido pela <strong> <a href="https://web.digitalinnovation.one/home"> DIGITAL INNOVATION ONE  </a></strong> e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.
+<p>Resolution of the proposed exercises: <strong>INTRODUCTORY COURSE ON JAVA COLLECTIONS FRAMEWORK</strong>.  
+An online course offered by <strong><a href="https://web.digitalinnovation.one/home">DIGITAL INNOVATION ONE</a></strong> and made available for free to the Java developer community.</p>
 
-<h2> 📚 Ementa</h2>
+<h2> 📚 Syllabus</h2>
 
-🔸 <strong> Visão geral:  Java Collections Framework e hierarquia </strong>
+🔸 <strong> Overview: Java Collections Framework and hierarchy </strong>
 
 🔸 <strong> List </strong><br>
-	  Coleção com iterações ordenadas: List<br>
-	  Conhecendo os métodos<br>
-	  Ordenação da coleção List<br>
-	 
-🔸 <strong> Set </strong><br>
-	  Coleção com singularidade: Set<br>
-	  Conhecendo os métodos<br>
-	  Ordenação da coleção Set<br>
-	 
-🔸 <strong> Map </strong><br>
-	  Coleção de pares: Map<br>
-	  Conhecendo os métodos<br>
-	  Ordenação de Map<br>
-	
-🔸 <strong> Stream API </strong><br>
-	  Visão geral: Classe Anônima - Functional Interface - Lambda  - Method Reference<br>
-	  Stream API<br>
-	  Conhecendo as operações<br>
+      Ordered iteration collection: List<br>
+      Understanding the methods<br>
+      Sorting the List collection<br>
 
+🔸 <strong> Set </strong><br>
+      Unique element collection: Set<br>
+      Understanding the methods<br>
+      Sorting the Set collection<br>
+
+🔸 <strong> Map </strong><br>
+      Key-value pair collection: Map<br>
+      Understanding the methods<br>
+      Sorting the Map<br>
+
+🔸 <strong> Stream API </strong><br>
+      Overview: Anonymous Class - Functional Interface - Lambda - Method Reference<br>
+      Stream API<br>
+      Understanding the operations<br>
