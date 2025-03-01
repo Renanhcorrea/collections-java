@@ -3,7 +3,7 @@ Curso Introdutório Collections Java
 </h1>
 
 <p>Resolução dos exercícios propostos: <strong>CURSO INTRODUTÓRIO COLLECTIONS FRAMEWORK JAVA</strong>.
-Curso online oferecido pela <strong> <a href="https://web.digitalinnovation.one/home"> DIGITAL INNOVATION ONE  </a></strong> 🧡💛 e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.
+Curso online oferecido pela <strong> <a href="https://web.digitalinnovation.one/home"> DIGITAL INNOVATION ONE  </a></strong> e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.
 
 <h2> 📚 Ementa</h2>
 
