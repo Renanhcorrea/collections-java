@@ -1,4 +1,4 @@
-package com.collections.task;
+package com.collections.task.set;
 
 
 import java.util.ArrayList;

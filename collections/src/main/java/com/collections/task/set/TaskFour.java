@@ -1,4 +1,4 @@
-package com.collections.task;
+package com.collections.task.set;
 
 // Create a class FavoriteLanguage with the attributes name, yearOfCreation, and IDE. Then, create a set with three programming languages and write a program that sorts this set by:
 

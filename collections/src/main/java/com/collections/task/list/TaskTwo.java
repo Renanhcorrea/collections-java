@@ -1,4 +1,4 @@
-package com.collections.task;
+package com.collections.task.list;
 
     // Portugu
 import java.util.ArrayList;
